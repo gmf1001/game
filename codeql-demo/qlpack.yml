@@ -1,0 +1,4 @@
+name: local/python-cross-file-fixture
+version: 0.0.1
+dependencies:
+  codeql/python-all: "*"
